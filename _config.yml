@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :title/
+url: https://lwt33713803.github.io/resource/
+root: /resource/
 permalink_defaults:
 pretty_urls:
     trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -103,6 +103,6 @@ theme: minos
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
     type: git
-    repo: git@github.com:lwt33713803/official-overseas.git #仓库地址
+    repo: git@github.com:lwt33713803/resource.git #仓库地址
     branch: gh-pages # 默认使用 master 分支(Github现在改名为main分支)
     message: Update Hexo Static Content # 你可以自定义此次部署更新的说明说明
